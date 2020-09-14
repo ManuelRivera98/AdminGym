@@ -15,7 +15,7 @@ frontend: React + redux + react-router
 * Ir al archivo local.yml (backend) y ejecutar `export COMPOSE_FILE=local.yml`
 * Construir imágenes docker `docker-compose build`
 * Arrancar `docker-compose up`
-* Ir al archivo package.json `yarn add`
+* Ir al archivo package.json (frontend) `yarn add`
 * Correr `yarn run dev`
 
 ## Licencia
