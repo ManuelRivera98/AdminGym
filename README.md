@@ -17,7 +17,7 @@ frontend: React + redux + react-router
 * Arrancar `docker-compose up`
 * Ir al archivo package.json (frontend) `yarn add`
 * Correr `yarn run dev`
-* email: example@gmail.com---password: example123456789
+* email: example@gmail.com  ---password: example123456789
 
 ## Licencia
 
